@@ -3,11 +3,21 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Arithmetic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Enhanced Switches" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Generate Random Numbers" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/If Statements" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java printf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JavaCalculator" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/JavaGame" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/JavaShoppingCart" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Math Class" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Nested If Statements" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Scanner" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/String Methods" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SubString" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Temperature Converter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Ternary Operator" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Variables" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Weight Converter" vcs="Git" />
   </component>
 </project>

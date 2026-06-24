@@ -4,14 +4,25 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Arithmetic/Arithmetic.iml" filepath="$PROJECT_DIR$/Arithmetic/Arithmetic.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Bro Code Java.iml" filepath="$PROJECT_DIR$/.idea/Bro Code Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Enhanced Switches/Enhanced Switches.iml" filepath="$PROJECT_DIR$/Enhanced Switches/Enhanced Switches.iml" />
       <module fileurl="file://$PROJECT_DIR$/Generate Random Numbers/Generate Random Numbers.iml" filepath="$PROJECT_DIR$/Generate Random Numbers/Generate Random Numbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/If Statements/If Statements.iml" filepath="$PROJECT_DIR$/If Statements/If Statements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java printf/Java printf.iml" filepath="$PROJECT_DIR$/Java printf/Java printf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCalculator/JavaCalculator.iml" filepath="$PROJECT_DIR$/JavaCalculator/JavaCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaGame/JavaGame.iml" filepath="$PROJECT_DIR$/JavaGame/JavaGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaShoppingCart/JavaShoppingCart.iml" filepath="$PROJECT_DIR$/JavaShoppingCart/JavaShoppingCart.iml" />
       <module fileurl="file://$PROJECT_DIR$/Math Class/Math Class.iml" filepath="$PROJECT_DIR$/Math Class/Math Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Math Class/Math Class Test/Math Class Test.iml" filepath="$PROJECT_DIR$/Math Class/Math Class Test/Math Class Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Nested If Statements/Nested If Statements.iml" filepath="$PROJECT_DIR$/Nested If Statements/Nested If Statements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java printf/Precision/Precision.iml" filepath="$PROJECT_DIR$/Java printf/Precision/Precision.iml" />
       <module fileurl="file://$PROJECT_DIR$/Scanner/Scanner.iml" filepath="$PROJECT_DIR$/Scanner/Scanner.iml" />
       <module fileurl="file://$PROJECT_DIR$/Scanner/ScannerFindArea/ScannerFindArea.iml" filepath="$PROJECT_DIR$/Scanner/ScannerFindArea/ScannerFindArea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String Methods/String Methods.iml" filepath="$PROJECT_DIR$/String Methods/String Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SubString/SubString.iml" filepath="$PROJECT_DIR$/SubString/SubString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Temperature Converter/Temperature Converter.iml" filepath="$PROJECT_DIR$/Temperature Converter/Temperature Converter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ternary Operator/Ternary Operator.iml" filepath="$PROJECT_DIR$/Ternary Operator/Ternary Operator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Variables/Variables.iml" filepath="$PROJECT_DIR$/Variables/Variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Weight Converter/Weight Converter.iml" filepath="$PROJECT_DIR$/Weight Converter/Weight Converter.iml" />
     </modules>
   </component>
 </project>
