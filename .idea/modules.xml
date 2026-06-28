@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/Math Class/Math Class.iml" filepath="$PROJECT_DIR$/Math Class/Math Class.iml" />
       <module fileurl="file://$PROJECT_DIR$/Math Class/Math Class Test/Math Class Test.iml" filepath="$PROJECT_DIR$/Math Class/Math Class Test/Math Class Test.iml" />
       <module fileurl="file://$PROJECT_DIR$/Nested If Statements/Nested If Statements.iml" filepath="$PROJECT_DIR$/Nested If Statements/Nested If Statements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Number Guessing Game/Number Guessing Game.iml" filepath="$PROJECT_DIR$/Number Guessing Game/Number Guessing Game.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java printf/Precision/Precision.iml" filepath="$PROJECT_DIR$/Java printf/Precision/Precision.iml" />
       <module fileurl="file://$PROJECT_DIR$/Scanner/Scanner.iml" filepath="$PROJECT_DIR$/Scanner/Scanner.iml" />
       <module fileurl="file://$PROJECT_DIR$/Scanner/ScannerFindArea/ScannerFindArea.iml" filepath="$PROJECT_DIR$/Scanner/ScannerFindArea/ScannerFindArea.iml" />
@@ -25,6 +26,7 @@
       <module fileurl="file://$PROJECT_DIR$/Ternary Operator/Ternary Operator.iml" filepath="$PROJECT_DIR$/Ternary Operator/Ternary Operator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Variables/Variables.iml" filepath="$PROJECT_DIR$/Variables/Variables.iml" />
       <module fileurl="file://$PROJECT_DIR$/Weight Converter/Weight Converter.iml" filepath="$PROJECT_DIR$/Weight Converter/Weight Converter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/While loops/While loops.iml" filepath="$PROJECT_DIR$/While loops/While loops.iml" />
     </modules>
   </component>
 </project>
