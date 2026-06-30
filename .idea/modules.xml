@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Arithmetic/Arithmetic.iml" filepath="$PROJECT_DIR$/Arithmetic/Arithmetic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Break and Continue/Break and Continue.iml" filepath="$PROJECT_DIR$/Break and Continue/Break and Continue.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Bro Code Java.iml" filepath="$PROJECT_DIR$/.idea/Bro Code Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Compound Interest Calculator/Compound Interest Calculator.iml" filepath="$PROJECT_DIR$/Compound Interest Calculator/Compound Interest Calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Enhanced Switches/Enhanced Switches.iml" filepath="$PROJECT_DIR$/Enhanced Switches/Enhanced Switches.iml" />
