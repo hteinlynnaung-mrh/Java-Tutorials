@@ -125,7 +125,6 @@ public class Main {
                 default -> 0;
             };
         }
-
         return 0;
     }
 }
