@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/2DArrays/2DArrays.iml" filepath="$PROJECT_DIR$/2DArrays/2DArrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arithmetic/Arithmetic.iml" filepath="$PROJECT_DIR$/Arithmetic/Arithmetic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array of Objects/Array of Objects.iml" filepath="$PROJECT_DIR$/Array of Objects/Array of Objects.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Break and Continue/Break and Continue.iml" filepath="$PROJECT_DIR$/Break and Continue/Break and Continue.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Bro Code Java.iml" filepath="$PROJECT_DIR$/.idea/Bro Code Java.iml" />
