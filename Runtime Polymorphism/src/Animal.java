@@ -1,4 +1,4 @@
-package PACKAGE_NAME;
+public abstract class Animal {
 
-public class Animal {
+    abstract void speak();
 }
