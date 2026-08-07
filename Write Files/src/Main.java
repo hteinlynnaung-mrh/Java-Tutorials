@@ -10,10 +10,11 @@ public class Main {
 
         String filePath = "/Users/hteinlynnaung/Downloads/text.txt";
         String textContent = """
-                Roses are Red
-                Violets are Blue
-                BOOTY BOOTY BOOTY
-                ROCKIN' EVERYWHERE!
+                Hello! My name is Ezra.
+                And I'm studying Bachelor of Software Engineering
+                at North Chiang Mai University.
+                Chiang Mai is beautiful and peaceful place at Northern Thailand.
+                Welcome from Chiang Main Thailand!
                 """;
 
         try(FileWriter writer = new FileWriter("/Users/hteinlynnaung/Downloads/test.txt")) {
