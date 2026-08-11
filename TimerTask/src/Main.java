@@ -19,7 +19,7 @@ public class Main {
 
             @Override
             public void run(){
-                System.out.println("Hello!");
+                System.out.println("Hello Nature!");
                 count--;
                 if(count < 0){ // count from 3 to less than 0 -> total = 4 times
                     System.out.println("TASK COMPLETE!");
