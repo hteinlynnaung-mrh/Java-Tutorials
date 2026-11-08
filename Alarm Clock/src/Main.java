@@ -12,7 +12,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         DateTimeFormatter formater = DateTimeFormatter.ofPattern("HH:mm:ss");
         LocalTime alarmTime =null;
-        String filePath = "/Users/hteinlynnaung/Downloads/BroCode Java/Alarm Clock/bali-by-declan-dp.wav";
+        String filePath = "/Users/hteinlynnaung/MyDev/BroCode Java/Alarm Clock/bali-by-declan-dp.wav";
 
         while(alarmTime == null){
             try{
